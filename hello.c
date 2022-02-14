@@ -6,4 +6,5 @@ int main(){
 	cout<<"this is a fresh"<<endl;
 	cout<<"this is hot-fix's fix"<<endl;
 	cout<<"this is master's fix"<<endl;
+	cout<<"this is the first time I wirte code in net"<<endl;
 }
