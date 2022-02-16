@@ -8,4 +8,5 @@ int main(){
 	cout<<"this is master's fix"<<endl;
 	cout<<"this is the first time I wirte code in net"<<endl;
 	cout<<"this is the change by test2"<<endl;
+	cout<<"this is the change by local"<<endl;
 }
